@@ -10,4 +10,5 @@ pandas
 openpyxl
 fastapi-mcp
 azure-keyvault-secrets
+mcp_proxy
 azure-identity
