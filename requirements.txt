@@ -1,0 +1,13 @@
+#insert python library 
+langchain-mcp-adapters
+langchain-openai
+python-dotenv
+langchain
+langgraph
+fastapi
+uvicorn
+pandas
+openpyxl
+fastapi-mcp
+azure-keyvault-secrets
+azure-identity
