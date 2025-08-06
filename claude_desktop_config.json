@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "addition-tool-mcp": {
+      "command": "D:/01MyFolder/mypython/python-3.11.5-embed-amd64/repository/mcp_tutorial/Scripts/mcp-proxy",
+      "args": ["http://127.0.0.1:8502/mcp"],
+      "cwd": "D:/01MyFolder/mypython/python-3.11.5-embed-amd64/repository/mcp_tutorial/", 
+      "env": {}
+    }
+  }
+}
